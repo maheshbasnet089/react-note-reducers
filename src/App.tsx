@@ -1,5 +1,5 @@
 
-import Notes from './Notes'
+import Notes from './Notes.tsx'
 
 function App() {
 
